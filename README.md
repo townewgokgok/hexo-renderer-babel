@@ -1,6 +1,5 @@
-# [Babel] renderer
+# [Babel] renderer plugin for [hexo]
 
-Add support for [Babel].
 Use files with extension '.es6'.
 
 ## Install
@@ -10,4 +9,5 @@ $ npm install hexo-renderer-babel --save
 ```
 
 [Babel]: https://babeljs.io/
+[hexo]: http://hexo.io/
 
